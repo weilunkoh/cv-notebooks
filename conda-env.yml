@@ -1,4 +1,4 @@
-name: diffussion_exp
+name: diffusion_exp
 channels:
   - defaults
   - conda-forge
