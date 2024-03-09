@@ -6,8 +6,6 @@ dependencies:
   - python=3.10.13
   - pip=24.0
   - pip:
-    # - --extra-index-url https://download.pytorch.org/whl/cu117
-    # - torch==2.0.1+cu117
     - --extra-index-url https://download.pytorch.org/whl/cu118
     - torch==2.2.1+cu118
     - accelerate==0.27.2
